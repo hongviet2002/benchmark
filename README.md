@@ -2,12 +2,17 @@
 
 Integrate with other Vietnamese NLP libraries 
 
-Todo List
+## Word Segmentation
 
-[✓] UETSegmenter
+|Model|Reference|
+|---|---|
+|UETSegmenter|Nguyen2016|
+|vitk|Nguyen2016|
+|pyvi||
+|Dong Du||
+|Roy VnTokenizer||
+|vTools||
+|jvnTextPro||
+|vnTokenizer|Nguyen2008|
+|jvnSegmenter|Nguyen2006|
 
-[✓] pyvi 
-
-[✓] jvnSegmenter
-
-[✓] vnTokenizer
